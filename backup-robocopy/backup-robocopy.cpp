@@ -13,7 +13,6 @@
 HWND hEditSource; // 소스 경로 편집기 핸들
 HWND hEditTarget; // 타겟 경로 편집기 핸들
 
-
 // 폴더 브라우저 대화상자를 여는 함수  
 std::wstring BrowseForFolder(HWND hwndOwner) {  
    std::wstring folderPath; // 선택된 폴더 경로  

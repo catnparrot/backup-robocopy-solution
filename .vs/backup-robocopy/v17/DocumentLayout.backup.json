@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{605F1A93-6698-4F66-A088-371174C7EFC0}|backup-robocopy\\backup-robocopy.vcxproj|D:\\Project\\cpp\\source\\repos\\backup-robocopy\\backup-robocopy\\backup-robocopy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{605F1A93-6698-4F66-A088-371174C7EFC0}|backup-robocopy\\backup-robocopy.vcxproj|solutionrelative:backup-robocopy\\backup-robocopy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED151A1-382C-4D5B-B153-383D725E6611}|otherBRproj\\otherBRproj.vcxproj|D:\\Project\\cpp\\source\\repos\\backup-robocopy\\otherBRproj\\otherBRproj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED151A1-382C-4D5B-B153-383D725E6611}|otherBRproj\\otherBRproj.vcxproj|solutionrelative:otherBRproj\\otherBRproj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "otherBRproj.cpp",
+              "DocumentMoniker": "D:\\Project\\cpp\\source\\repos\\backup-robocopy\\otherBRproj\\otherBRproj.cpp",
+              "RelativeDocumentMoniker": "otherBRproj\\otherBRproj.cpp",
+              "ToolTip": "D:\\Project\\cpp\\source\\repos\\backup-robocopy\\otherBRproj\\otherBRproj.cpp",
+              "RelativeToolTip": "otherBRproj\\otherBRproj.cpp",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwHAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T08:11:42.263Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "backup-robocopy\\backup-robocopy.cpp",
               "ToolTip": "D:\\Project\\cpp\\source\\repos\\backup-robocopy\\backup-robocopy\\backup-robocopy.cpp",
               "RelativeToolTip": "backup-robocopy\\backup-robocopy.cpp",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T00:14:17.774Z",
               "EditorCaption": ""
